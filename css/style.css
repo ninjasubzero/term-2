@@ -1,0 +1,46 @@
+.border {
+    border: 2px solid rgb(26, 41, 184);
+border-radius: 10px;
+}
+#header{
+    height: 570px;
+    width: 1300px;
+}
+#body{
+    height: 500px;
+    width: 1300px;
+}
+#footer{
+    height: 500px;
+    width: 1300px;
+}
+#top{
+    width: 1300px;
+    height: 100px;
+}
+#logo{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+#search{
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+#select{
+    height: 100px;
+    width: 500px;
+    margin: auto;
+    margin: 130px  400px;
+}
+#gallery{
+    width: 1300px;
+    height: 100px;
+    
+}
+#mid-gallery{
+    width: 500px;
+    height: 100px;
+    margin: auto;
+}
